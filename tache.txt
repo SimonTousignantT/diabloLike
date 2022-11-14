@@ -1,0 +1,56 @@
+// faire une map baboche and bake this shit
+1h prendre sont temp mais pas trop
+
+// faire les movement du perso et sasuré qu'il bouge
+1h15h copier colé un script que jai dejas fait mais que je comprend pas totalment peut etre melangent 
+et peut y avoir des imprevue
+
+// faire suivre la camera le gameObjet "player" en x et z seulement
+30 minute vue je sait apeupres comment faire ses pas dure
+
+// faire un pont levie, activé par un levier(le levier doit etre visuelment activé, et le pont doit dessendre)
+3h30 ses quand meme 2 script une fontion un box colider et trouver comment faire un nouveau bake et plus risque detre probleimatic
+
+// evoyer les monstre vers le player comme point de destination 
+1h45 ses soit ultra simple soit pas pentoute depend si ce que j'ai en tete est appliquable
+
+// crée une bars de vie et faire que quand les montre sont en contact avec le player le player la bars de vie dessent
+1h je l'ai deja fait et ses assé ressent dans ma tete meme si compliquer
+
+// lors du clic droit de la sourie un projectile est lancer et detrui les mobs 1 shot
+3h trouver quelque chose d'interessant et fun merite qu'on s'y atarde unpeut
+
+//le player meur quand il n'a plus de vie une animation de mort et une interpolation qui assombri limage avant de changé le menu pour un retry
+2h je risque de chercher unpeut l'interpolation
+
+//crée des props caisse destructible 
+20 minute si je met juste des caisse en bois pa trop compliquer sauf si jleur met une annimation de destruction a ce moment la je dirait ptete plus 1h
+
+// faire en sorte que le player se rend a une porté nessessaire pour toucher lenemie 
+ 3h jamais fait donc risque de devoir demander de l'aide
+
+// annimation de perssonage et de monstre 
+ 2h je suis pas encore tres alaise avec sa 
+
+// une sortie et une menue win
+ 45 minute ses pas tres compliqué
+
+//embiance music 
+30 minute pour choisir
+
+//effet sonor a mettre sur tout 
+3h je connait pas trop, je l'ai deja faite mais jai aussi plusieur objet a sonoriser
+
+total:  21h35 realiste,, 19h optimiste ,,35h pessimiste acose de git qui vas me ralentir 
+      
+
+
+ 
+
+
+
+
+ 
+
+
+
